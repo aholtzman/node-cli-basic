@@ -2,12 +2,12 @@
 
 ## Installation & Usage:
 
-1. clone this repo
+* clone this repo
   - cd into cloned directory
   - run ```yarn``` to install dependancies
-1. run ```sudo npm i -g .``` in the root directory to install app globally on your machine
-1. run ```ron-quote``` to start the application
-1. profit!
+* run ```sudo npm i -g .``` in the root directory to install app globally on your machine
+* run ```ron-quote``` to start the application
+* profit!
 
 ## Small App, Big Potential
 
