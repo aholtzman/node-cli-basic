@@ -3,9 +3,9 @@
 ## Installation & Usage:
 
 * clone this repo
-  - cd into cloned directory
-  - run ```yarn``` to install dependancies
-* run ```sudo npm i -g .``` in the root directory to install app globally on your machine
+* cd into cloned directory
+* run ```yarn``` to install dependancies
+* run ```sudo npm i -g .``` in the root of the project to install app globally on your machine
 * run ```ron-quote``` to start the application
 * profit!
 
